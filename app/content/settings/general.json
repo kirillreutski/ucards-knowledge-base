@@ -1,7 +1,7 @@
 {
   "title": "Интеграция API",
   "titleTemplate": "s",
-  "welcomeText": "# Интеграция API",
+  "welcomeText": "# Интеграция API\n\n```﻿\nc﻿onst a = new();\n",
   "logo": "/images/uploads/logo.png",
   "icon": "/images/uploads/logo.svg",
   "loadingColor": "#0b3765",
